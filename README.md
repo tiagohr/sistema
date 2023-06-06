@@ -5,5 +5,5 @@
 Para rodar, digite:
 
 ```
-noe app.js
+node app.js
 ```
