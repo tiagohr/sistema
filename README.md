@@ -5,5 +5,5 @@
 Para rodar, digite:
 
 ```
-npm install react
+noe app.js
 ```
